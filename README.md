@@ -1,1 +1,1 @@
-## Recursive grep
+# Recursive grep
