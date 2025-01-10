@@ -77,7 +77,7 @@ pub fn process_file(
 
 pub fn help() {
     print!(
-        "usage:  {0} [{1}] [\"{2}\" | \"{2}\"]
+        "usage:  {0} [{1}] \"{2}\"
         {3} => ignore case (case insensitive)
         {4} => only print the number of matches per file
         {5} => enable regex search
@@ -104,7 +104,7 @@ pub fn help() {
 
 pub fn print_info_rgrep() {
     println!(
-        "usage:  {0} [{1}] [\"{2}\" | \"{2}\"]
+        "usage:  {0} [{1}] \"{2}\"
         {3} => ignore case (case insensitive)
         {4} => only print the number of matches per file
         {5} => enable regex search
