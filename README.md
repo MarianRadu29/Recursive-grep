@@ -45,7 +45,7 @@ cd Recursive-grep
 
 ## Be careful!!!
 
-- In application run `rgrep` command for print all commands and with all their options and command `help` for all available commands.
+- In application run `rgrep` command for print all options for this command or run `help` for print all available commands with description for each.
 
 - Before running rgrep with a specific pattern, you must set the root path from where to start the search, this can be done with the `setpath` command.
 - Can modifies prompt program,in my code it's just an example.
